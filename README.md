@@ -17,7 +17,8 @@ Tugas : Buatlah Method Program Java Toast Number, dengan menghasilkan Bilangan F
 |----|------------|----------------------------------------|
 | 1. | Layout     | [Click Here](#layout)               |
 | 2. | Java       | [Click Here](#java-class)     |
-| 3. | Hasil Run  | [Click Here](#hasil-run)            |
+| 3. | Hasil Design  | [Click Here](#hasil-design)            |
+| 4. | Hasil Run  | [Click Here](#hasil-run)      |
 
 > - Disini, saya akan mengerjakan dan menjelaskan tugas dari mata kuliah "Pemrograman Mobile 1" yaitu membuat sebuah aplikasi untuk menampilkan bilangan Fibonacci. Selain itu saya juga akan merubah sedikit tampilan dari yang diperintahkan pada tugas, yaitu menambah tombol `Restart` dan menambah tombol `Masukkan Angka Limit` 
 
@@ -270,10 +271,14 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 
-## Hasil Run 
+## Hasil Design
+
+![image](https://github.com/Aganzz2002/Tugas-UTS-Fibonacci/assets/115918322/408a8155-8e61-40d9-80cd-c3773fbc4226)
 
 
+## Hasil Run
 
+https://github.com/Aganzz2002/Tugas-UTS-Fibonacci/assets/115918322/ae5d0b60-c080-4a1d-ac1e-ba5a7f4e8a4c
 
 
 
